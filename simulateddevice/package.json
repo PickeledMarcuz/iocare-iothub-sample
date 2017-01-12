@@ -1,0 +1,16 @@
+{
+  "name": "simulateddevice",
+  "version": "1.0.0",
+  "description": "console application to simulate device that sends device-to-cloud messages to an IoT hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.1.2",
+    "azure-iot-device-mqtt": "^1.1.2"
+  },
+  "devDependencies": {}
+}

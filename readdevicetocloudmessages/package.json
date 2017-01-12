@@ -1,0 +1,14 @@
+{
+  "name": "readdevicetocloudmessages",
+  "version": "1.0.0",
+  "description": "read messages from device to cloud ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "azure-event-hubs": "0.0.4"
+  }
+}
